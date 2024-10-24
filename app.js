@@ -20,8 +20,8 @@ function square() {
     input.value = input.value * input.value
 }
 
-function cube() {
-    input.value = input.value * input.value * input.value
+function square() {
+    input.value = Math.sqrt(input.value)
 }
 
 function clrChar() {
