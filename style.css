@@ -1,0 +1,39 @@
+.main {
+    border: 3px solid rgb(187, 82, 33);
+    background-color: rgb(187, 84, 36);
+    border-radius: 5px ;
+    width: 250px;
+    margin: 0 auto;
+  }
+
+  .result {
+    width: 96%;
+    height: 30px;
+    position: relative;
+    top: -2px;
+    font-size: medium;
+    margin-bottom: 5px;
+    background-color: rgb(136, 134, 134);
+    border: 2px solid black;
+    color: #fff;
+  }
+
+  .btn{
+    background-color: rgb(124, 124, 124);
+    border-radius: 8px;
+    border: 2px solid rgb(22, 21, 20);
+    color: white;
+    width: 44px;
+    margin: 1px;
+    padding: 8px 12px;
+  }
+
+  .btn1{
+    background-color: rgb(5, 61, 99);
+    border-radius: 8px;
+    border: 2px solid rgb(22, 21, 20);
+    color: white;
+    width: 44px;
+    margin: 1px;
+    padding: 8px 12px;
+  }
