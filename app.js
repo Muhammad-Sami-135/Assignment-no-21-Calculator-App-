@@ -20,7 +20,7 @@ function square() {
     input.value = input.value * input.value
 }
 
-function square() {
+function squareRoot() {
     input.value = Math.sqrt(input.value)
 }
 
